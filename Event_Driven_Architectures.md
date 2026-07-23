@@ -1,6 +1,7 @@
 ## Building Scalable Event-Driven Architectures on AWS 
 
-![Uploading image.png…]()
+<img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/a4efda79-b439-4a8f-a138-a66a5f72b016" />
+
 
 
 💻 AWS CloudShell: Used for quick console-based CLI management, automated deployments, and testing scripts directly in the AWS environment without needing local setup.
